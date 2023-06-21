@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Gravitational Wave Detector and Space Optics Lab
-description: Uses an easy to customize theme for its website
+description:
 background: /assets/theme/images/banne.jpg
 permalink: /
 ---
