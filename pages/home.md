@@ -6,5 +6,5 @@ background: /assets/theme/images/banne.jpg
 permalink: /
 ---
 
-## GWDaSO lab  ### is optical instrumentation lab for gravitational wave detector technology and space optics application. Laser optics, optics simulation, telescope.
+## GWDaSO lab ### is optical instrumentation lab for gravitational wave detector technology and space optics application. Laser optics, optics simulation, telescope.
 
