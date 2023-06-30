@@ -2,12 +2,18 @@
 
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
-- text: About
+- text: Research
   href: /about/
-- text: Team
+- text: Members
   href: /team/
-- text: Blog
+- text: Publication
   href: /blog/
+- text: Collaboration
+  menu: /blog/
+- text: Location
+  menu: /blog/
+- text: About J.park
+  menu: /blog/
 - text: Documentation
   menu: # Dropdown menu (one level deep only)
   - text: Installation
