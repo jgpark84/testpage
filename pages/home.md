@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Gravitational wave and Optics Team at Yonsei
-description: Optical instrumentation for GW detector and space optics in Yonsei University
+description: Gravitational wave and optical instrumentation lab at Yonsei University
 background: /assets/theme/images/banne.jpg
 permalink: /
 ---
