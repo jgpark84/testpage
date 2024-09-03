@@ -1,5 +1,5 @@
 # SITE SETTINGS
-title: GOTY Lab                      # Title in top navigation bar (navbar) and <head>
+title: Gw Optics Team at Yonsei                      # Title in top navigation bar (navbar) and <head>
 author: June Gyu Park                    # Used for copyright statement in footer
 baseurl: "/testpage"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
