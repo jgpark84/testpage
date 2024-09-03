@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Gravitational wave and Optics Team at Yonsei
+title: Gravitational Wave and Optics Team at Yonsei
 description: Gravitational wave and optical instrumentation lab at Yonsei University
 background: /assets/theme/images/banne.jpg
 permalink: /
