@@ -10,8 +10,7 @@
 </span>
   
   googlescholar: googlescholar_username
-  description: > # Can be Markdown
-   j.park@yonsei.ac.kr
+
 - name: Turanga Leela
   role: Captain
   description: >
