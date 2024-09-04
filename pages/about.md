@@ -9,7 +9,7 @@ permalink: /about/
 ---
 
 {:.alert .alert-warning}
-The source file for this page is [`pages/about.md`](https://raw.githubusercontent.com/peterdesmet/petridish/main/pages/about.md).
+Broad band reseach in optics field
 
 ## Gravitational wave detector
 
