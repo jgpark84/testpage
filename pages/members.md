@@ -1,7 +1,7 @@
 ---
 layout: team
 title: Members
-description: Who we are
+description: Current GWOTY members
 permalink: /members/
 ---
 
