@@ -5,8 +5,7 @@
   image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
   description: > # Can be Markdown
     Optics instrumentation, Laser interferometer, Gravitational wave detector
- ![My helpful screenshot](/assets/theme/orcid.svg)
-  googlescholar: googlescholar_username
+  [ORCID](https://orcid.org/0000-0002-7510-0079){: target="_blank"}
 
 - name: Turanga Leela
   role: Captain
