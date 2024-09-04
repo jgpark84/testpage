@@ -6,7 +6,7 @@
   description: > # Can be Markdown
     Optics instrumentation, Laser interferometer, Gravitational wave detector
   <span style="font-family: Arial, sans-serif; font-size: 16px;">
-  <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID" style="vertical-align: middle; margin-right: 5px;">
+  <img src="/assets/theme/images/orcid.svg" alt="ORCID" style="vertical-align: middle; margin-right: 5px;">
   <a href="https://orcid.org/0000-0001-2345-6789" target="_blank">0000-0001-2345-6789</a>
 </span>
   
