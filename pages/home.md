@@ -6,6 +6,7 @@ background: /assets/theme/images/banne.jpg
 permalink: /
 ---
 
-<span style="font-size:20px">Gravitational Wave and Optics Team at Yonsei(GWOTY)</span> is optical instrumentation lab for gravitational wave detector and laser optics application.  Laser optics, optics simulation, telescope.
+<span style="font-size:20px">Gravitational Wave and Optics Team at Yonsei(GWOTY)</span> is optical instrumentation lab for gravitational wave detector and laser optics application.  
+
 <img src="images/rep.png">
 
