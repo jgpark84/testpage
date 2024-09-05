@@ -2,7 +2,7 @@
 
 - name: June Gyu Park
   role: Assistant professor # Will appear next to name
-  image: assets/theme/images/Jparkimage.png # Can be external link
+  image: assets/theme/images/Jparkimage.png # Can be external link, image size 300px x 300px
   description: > # Can be Markdown
     Optics instrumentation, Laser interferometer, Gravitational wave detector
   orcid: 0000-0002-7510-0079
