@@ -41,7 +41,11 @@ exclude:
   - package-lock.json
   - package.json
   - petridish.gemspec
-
+collections:
+  publi:
+    output : true
+    permalink: /paper/:title/ # create new path
+    
 # FRONTMATTER DEFAULTS
 defaults:
   - scope:
