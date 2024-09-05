@@ -1,12 +1,12 @@
 ---
-title: About J.Park
+title: Jpark
 description: CV
-background: /assets/theme/images/banne.jpg
+background:
+  /assets/theme/images/banne.jpg
 permalink: /about/
 ---
 
-{:.alert .alert-warning}
-ppfixed
+{:.alert .alert-warning}jpark fixed
 
 ## Laser optics techniques in GW detector
 
