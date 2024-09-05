@@ -3,7 +3,7 @@ title: Reaserch
 description: Research topics in GWOTY
 background:
   /assets/theme/images/banne.jpg
-permalink: /about/
+permalink: /collaboration/
 ---
 
 {:.alert .alert-warning}
