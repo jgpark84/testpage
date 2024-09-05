@@ -9,8 +9,8 @@
 - text: NEWS
   href: /blog/
 - text: Collaboration
-  menu: /pages/collaboration.md
+  href: /blog/
 - text: Publication
-  menu: /blog/
+  href: /blog/
 - text: About J.park
-  menu: /blog/
+  herf: /blog/
