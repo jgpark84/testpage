@@ -1,7 +1,7 @@
 ---
-title: Publications
+layout: paperarc
+title: Pulications
 description: Publication list
-background: /assets/theme/images/banne.jpg
 permalink: /publication/
 ---
 
