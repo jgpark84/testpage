@@ -1,9 +1,8 @@
 ---
-title: Reaserch
-description: Research topics in GWOTY
-background:
-  /assets/theme/images/banne.jpg
-permalink: /about/
+title: Publications
+description: Publication list
+background: /assets/theme/images/banne.jpg
+permalink: /publication/
 ---
 
 {:.alert .alert-warning}
