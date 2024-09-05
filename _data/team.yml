@@ -5,6 +5,7 @@
   image: assets/theme/images/jpark.jpg # Can be external link, image size 300px x 300px
   description: > # Can be Markdown
     Optics instrumentation, Laser interferometer, Gravitational wave detector
+    E-mail : j.park@yonsei.ac.kr
   orcid: 0000-0002-7510-0079
 - name: Gyoik Kim
   role: Master student (Phd interated course)
