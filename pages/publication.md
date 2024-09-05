@@ -8,7 +8,7 @@ permalink: /newpaper/
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ paper.url }}">{{ paper.title }}</a>
     </li>
   {% endfor %}
 </ul>
