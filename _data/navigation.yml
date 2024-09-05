@@ -3,7 +3,7 @@
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
 - text: Research
-  href: /about/
+  href: /research/
 - text: Members
   href: /members/
 - text: NEWS
