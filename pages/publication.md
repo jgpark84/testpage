@@ -6,9 +6,9 @@ permalink: /publication/
 ---
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.paper %}
     <li>
-      <a href="{{ paper.url }}">{{ paper.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
