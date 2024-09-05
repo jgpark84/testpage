@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: paperarc
 title: Publications
 description: Publication list
 permalink: /newpaper/
