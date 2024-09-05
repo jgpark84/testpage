@@ -1,6 +1,6 @@
 ---
-title: Reaserch
-description: Research topics in GWOTY
+title: Collaborations
+description: List of collaboration
 background:
   /assets/theme/images/banne.jpg
 permalink: /collaboration/
