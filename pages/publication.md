@@ -6,7 +6,7 @@ permalink: /publication/
 ---
 
 {:.alert .alert-warning}
-Broad band reseach in optics field
+publications
 
 ## Laser optics techniques in GW detector
 
