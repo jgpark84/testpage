@@ -2,7 +2,7 @@
 title: Collaborations
 description: List of collaboration
 background:
-  /assets/image/collaboraton_re1.jpg
+  /assets/image/collaboration_re1.jpg
 permalink: /collaboration/
 ---
 
