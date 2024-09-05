@@ -2,7 +2,7 @@
 layout: archive
 title: Publications
 description: Publication list
-permalink: /paper/
+permalink: /newpaper/
 ---
 
 <!-- Content here would shop up above your list of posts -->
