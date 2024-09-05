@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: News
-description: News & blog posts
+description: News about conference and Publication
 permalink: /blog/
 ---
 
