@@ -6,7 +6,8 @@ background:
 permalink: /about/
 ---
 
-{:.alert .alert-warning}jpark fixed
+{:.alert .alert-warning}
+jpark fixed
 
 ## Laser optics techniques in GW detector
 
