@@ -1,13 +1,13 @@
 ---
-title: Reaserch
-description: Research topics in GWOTY
+title: About J.Park
+description: CV
 background:
   /assets/theme/images/banne.jpg
 permalink: /about/
 ---
 
 {:.alert .alert-warning}
-Broad band reseach in optics field
+j.park fixed
 
 ## Laser optics techniques in GW detector
 
