@@ -7,7 +7,7 @@ permalink: /collaboration/
 ---
 
 {:.alert .alert-warning}
-Broad band reseach in optics field
+collaboration
 
 ## Laser optics techniques in GW detector
 
