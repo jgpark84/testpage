@@ -2,7 +2,7 @@
 title: Collaborations
 description: List of collaboration
 background:
-  /assets/theme/images/banne.jpg
+  /assets/image/wide_collaboraton.jpg
 permalink: /collaboration/
 ---
 
