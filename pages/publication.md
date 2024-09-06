@@ -1,5 +1,4 @@
 ---
-layout: paperl
 title: Pulications
 description: Publication list
 permalink: /publication/
