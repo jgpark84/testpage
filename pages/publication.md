@@ -5,7 +5,7 @@ permalink: /publication/
 ---
 <head>
   <!-- 기존 main.css 링크 -->
-  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ 'assets/theme/css/main.scss' | relative_url }}">
   
   <!-- 새로운 custom.css 링크 -->
   <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
