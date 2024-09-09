@@ -1,8 +1,3 @@
-{% if item.background.first %}
-  {% assign background = item.background.img %}
-{% else %}
-  {% assign background = item.background %}
-{% endif %}
 
 <div class="card" data-tags="{% for tag in item.tags %}{{ tag | downcase | strip }}|{% endfor %}">
   <a href="{{ item.url | relative_url }}">
