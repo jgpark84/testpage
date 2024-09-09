@@ -5,7 +5,7 @@ title: "Publications"
 
 <h1>Publications</h1>
 <div class="publications-list">
-    {% for publication in site.publications %}
+    {% for publication in site.paper %}
     <div class="publication-item">
         <img src="{{ publication.thumbnail }}" alt="Thumbnail for {{ publication.title }}" class="publication-thumbnail">
         <div class="publication-details">
