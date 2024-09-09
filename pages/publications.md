@@ -1,0 +1,20 @@
+---
+layout: base
+title: "Publications"
+---
+
+<h1>Publications</h1>
+<div class="publications-list">
+    {% for publication in site.publications %}
+    <div class="publication-item">
+        <img src="{{ publication.thumbnail }}" alt="Thumbnail for {{ publication.title }}" class="publication-thumbnail">
+        <div class="publication-details">
+            <h3><a href="{{ publication.link }}">{{ publication.title }}</a></h3>
+            <p><strong>Authors:</strong> {{ publication.authors }}</p>
+            <p><strong>Journal:</strong> {{ publication.journal }}</p>
+            <p><strong>Year:</strong> {{ publication.year }}</p>
+            <p>{{ publication.content }}</p>
+        </div>
+    </div>
+    {% endfor %}
+</div>
