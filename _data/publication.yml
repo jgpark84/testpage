@@ -1,6 +1,6 @@
 # Project team members listed below will appear on the /team page
 
-- name: June Gyu Park
+- name: June Gyu Park publie
   role: Assistant professor # Will appear next to name
   image: assets/theme/images/jpark.jpg # Can be external link, image size 300px x 300px
   description: > # Can be Markdown
