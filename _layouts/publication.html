@@ -3,10 +3,10 @@ layout: default
 description: Template for team page.
 ---
 
-{% if page.team and site.data[page.team] %}
-  {% assign team = site.data[page.team] %}
-{% elsif site.data.team %}
-  {% assign team = site.data.team %}
+{% if page.team and site.data[page.publication] %}
+  {% assign team = site.data[page.publication] %}
+{% elsif site.data.publication %}
+  {% assign team = site.data.publication %}
 {% endif %}
 
 {{ content }}
