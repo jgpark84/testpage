@@ -1,5 +1,3 @@
-# _publications/paper1.md
-
 ---
 layout: publication
 title: "Research Paper Title"
