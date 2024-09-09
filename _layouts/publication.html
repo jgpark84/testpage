@@ -12,8 +12,8 @@ description: Template for team page.
 {{ content }}
 
 {% for member in team %}
-  <div class="d-flex team1-member">
-    <div class="flex1-shrink-0 me-3">
+  <div class="d-flex team2-member">
+    <div class="flex2-shrink-0 me-3">
       {% if member.image %}
         <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
       {% endif %}
