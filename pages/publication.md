@@ -1,5 +1,8 @@
 ---
 title: "Publications"
+title: Pulications
+description: Publication list new layout
+permalink: /publication/
 ---
 
 <h1>Publications</h1>
