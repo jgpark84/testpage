@@ -18,7 +18,7 @@
 .post-thumbnail img {
   max-width: 150px; /* 썸네일 최대 너비 */
   height: auto; /* 높이 자동 조정 */
-  border-radius: 5px; /* 이미지 모서리 둥글게 */
+
 }
 
 .post-text {
