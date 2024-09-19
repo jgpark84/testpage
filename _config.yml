@@ -45,6 +45,7 @@ collections:
   paper:
     output: true
     permalink: /newpaper/:title/
+    
 # FRONTMATTER DEFAULTS
 defaults:
   - scope:
