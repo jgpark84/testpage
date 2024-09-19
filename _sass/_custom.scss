@@ -8,6 +8,7 @@
   margin-bottom: 1rem; /* 카드 간의 간격 */
 }
 .custom-card .card-img {
+  margin: 10px; 
   max-width: 100%; /* 카드의 너비에 맞게 이미지 조정 */
   height: auto; /* 이미지 비율 유지 */
   object-fit: cover; /* 이미지 비율을 유지하면서 카드의 영역에 맞게 조정 */
