@@ -9,7 +9,7 @@ description: Template for a list of posts as cards, with full widthh.
     {% for post in site.paper %}
     <div class="col-md-12 mb-3"> <!-- 카드가 전체 너비를 차지하도록 설정 -->
       <div class="card custom-card">
-        <div class="row g-0">
+        <div class="row">
           <!-- 이미지 영역 -->
           <div class="col-md-4">
             <img src="{{ post.thumbnail | default: 'default-thumbnail.jpg' }}" class="img-fluid rounded-start" alt="{{ post.title }}" style="max-width: 100%; height: auto;">
