@@ -4,8 +4,8 @@ description: Template for a list of posts as cards, with full widthh.
 ---
 
 <div class="card mb-3" style="max-width: 100%;">
+   {% for post in site.paper %}
   <div class="row g-0">
-    {% for post in site.paper %}
     <div class="col-md-4">
       <img src="..." class="img-fluid rounded-start" alt="...">
     </div>
