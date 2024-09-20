@@ -10,11 +10,11 @@ description: Template for a list of posts as cards, with full widthh.
       <div class="card custom-card">
         <div class="row">
           <!-- 이미지 영역 -->
-          <div class="col-md-2">
+          <div class="col-md-3">
             <img src="{{ post.thumbnail | default: 'default-thumbnail.jpg' }}" class="fluid rounded-start" alt="{{ post.title }}" style="max-width: 100%; height: auto;">
           </div>
           <!-- 본문 영역 -->
-          <div class="col-md-10">
+          <div class="col-md-9">
             <div class="card-body">
               <h5 class="card-title">{{ post.title }}</h5>
               <p class="card-text">{{ post.description }}</p>
