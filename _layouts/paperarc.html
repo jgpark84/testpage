@@ -16,10 +16,9 @@ description: Template for a list of posts as cards, with full widthh.
           <!-- 본문 영역 -->
           <div class="col-md-9">
             <div class="card-body">
-              <h5 class="card-title">{{ post.title }}</h5>
+              <h5 class="card-title" href="{{ post.url }}">{{ post.title }}</h5>
               <p class="card-text">{{ post.description }}</p>
               <p class="card-text"><small class="text-muted">{{ post.date | date: "%Y-%m-%d" }}</small></p>
-              <a href="{{ post.url }}" class="btn btn-primary">Read More</a>
             </div>
           </div>
         </div>
@@ -28,4 +27,4 @@ description: Template for a list of posts as cards, with full widthh.
     {% endfor %}
   </div>
 </div>
-//fluid rounded-start//
+
