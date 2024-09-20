@@ -21,9 +21,9 @@ description: Template for a list of posts as cards, with full widthh.
                 </h5>
                <h6 class="card-subtitle"><strong>{{ post.journal }} ({{ post.pub_date | date: '%B %d, %Y' }})</strong></h6>
               <p class="card-text">{{ post.description }}</p>
-              <p class="card-text"><small class="text-muted">cite:{{ post.citation }}</small></p>
-              <p class="card-text"><small class="text-muted">DOI:{{ post.DOI }}</small></p>
-              <p class="card-text"><small class="text-muted">{{ post.date | date: "%Y-%m-%d" }} updated</small></p>
+              <p class="card-text" style="margin-bottom: 0;"><small class="text-muted">Cite: {{ post.citation }}</small></p>
+              <p class="card-text" style="margin-bottom: 0;"><small class="text-muted">DOI: {{ post.DOI }}</small></p>
+            
             </div>
           </div>
         </div>
